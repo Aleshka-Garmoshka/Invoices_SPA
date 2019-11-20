@@ -1,0 +1,45 @@
+.invoice {
+    background: #f1f3f6;
+    padding: 30px;
+}
+
+.btn-blue {
+    background: #4973ff;
+    display: flex;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    user-select: none;
+    transform: scale(1);
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    transition: 0.3s ease-in-out;
+    margin: 10px 0px;
+    border: 0;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+}
+
+.title-of-block {
+    color: #80889d;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-left: 4px solid #e4e6e9;
+    margin: 0px auto 20px;
+    font-size: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.btn-blue:hover {
+    cursor: pointer;
+    background: #1c2bff;
+}
+
+.btn-blue:active {
+    transform: scale(0.97);
+}
+
+.flex-start {
+    display: flex;
+    justify-content: flex-start;
+}

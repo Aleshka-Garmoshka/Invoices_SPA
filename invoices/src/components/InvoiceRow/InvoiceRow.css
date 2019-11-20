@@ -1,0 +1,15 @@
+.invoiceRow-item {
+    max-width: 25%;
+    width: 100%;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.invoiceRow {
+    border-bottom: 1px solid #f1f3f6;
+    color: #80889d;
+}
+
+.edit-invoice, .delete-invoice {
+    padding: 10px;
+}

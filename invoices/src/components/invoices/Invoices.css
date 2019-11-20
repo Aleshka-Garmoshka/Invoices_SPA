@@ -1,0 +1,22 @@
+.first-line {
+    font-weight: bold;
+    background: #f1f3f6;
+    border-radius: 4px;
+}
+
+.invoices-cont {
+    background: #fff;
+    margin: 0px auto 20px;
+    box-shadow: 1px 2px 7px rgba(0, 0, 0, 0.05);
+    padding: 0px 20px;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.subtitle {
+    color: #80889d;
+    font-weight: bold;
+    padding: 10px 0px;
+    margin: 0;
+    font-size: 20px;
+}
